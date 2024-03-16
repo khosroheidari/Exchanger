@@ -1,0 +1,4758 @@
+.https-www-xe-com {
+  align-items: flex-start;
+  background-color: var(--wwwxecombright-gray);
+  display: flex;
+  flex-direction: column;
+  height: 4793px;
+  position: relative;
+}
+
+.https-www-xe-com .div-next {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 4793px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 4794px;
+  margin-bottom: -1px;
+  padding: 0px 0px 0.01px;
+  position: relative;
+  width: 2131px;
+}
+
+.https-www-xe-com .div-fluid-container {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomnero);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 110px 360px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-fluid-container-wrapper {
+  background-color: var(--wwwxbaratcomlightning-yellow);
+  height: 410px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2131px;
+}
+
+.https-www-xe-com .div-fluid-container-2 {
+  height: 410px;
+}
+
+.https-www-xe-com .section {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 477px;
+  max-width: 1200px;
+  padding: 0px 24px 64px;
+  position: relative;
+  width: 1200px;
+}
+
+.https-www-xe-com .div-hero-container {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 105px;
+  padding: 0px 182.25px 39.4px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .heading-trusted {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 39px;
+  margin-left: -0.25px;
+  margin-right: -0.25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .text-wrapper {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 27.2px;
+  margin-top: -0.6px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-tab-box {
+  align-items: center;
+  background-color: var(--wwwxecomnero);
+  border-radius: 8px;
+  box-shadow: 0px 6px 12px #2337504c;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  height: 299px;
+  padding: 0px 0px 48px;
+  position: relative;
+  width: 1052px;
+}
+
+.https-www-xe-com .div-tab-box-tabrow {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  min-height: 56px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomnero);
+  border-radius: 8px 0px 0px 0px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 288px;
+  padding: 16px 100.29px 16px 100.3px;
+  position: relative;
+}
+
+.https-www-xe-com .SVG {
+  height: 24px;
+  margin-left: -12.8px;
+  position: relative;
+  width: 24px;
+}
+
+.https-www-xe-com .span-tab-text-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -5.68e-14px;
+  margin-right: -12.8px;
+  max-width: 296px;
+  padding: 0px 0px 0px 8px;
+  position: relative;
+}
+
+.https-www-xe-com .span-tab-text {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 288px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-2 {
+  color: #006fe8;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomblack-squeeze);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 288px;
+  padding: 16px 111.01px 16px 111.02px;
+  position: relative;
+}
+
+.https-www-xe-com .img {
+  height: 24px;
+  margin-left: -12.52px;
+  position: relative;
+  width: 24px;
+}
+
+.https-www-xe-com .span-tab-text-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -12.51px;
+  max-width: 296px;
+  padding: 0px 0px 0px 8px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-3 {
+  color: var(--wwwxecomsan-juan);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomblack-squeeze);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 288px;
+  padding: 16px 105.85px 16px 105.84px;
+  position: relative;
+}
+
+.https-www-xe-com .SVG-2 {
+  height: 24px;
+  margin-left: -12.84px;
+  position: relative;
+  width: 24px;
+}
+
+.https-www-xe-com .div-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -12.84px;
+  max-width: 296px;
+  padding: 0px 0px 0px 8px;
+  position: relative;
+}
+
+.https-www-xe-com .link-4 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomblack-squeeze);
+  border-radius: 0px 8px 0px 0px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 288px;
+  padding: 16px 108.54px 16px 108.55px;
+  position: relative;
+}
+
+.https-www-xe-com .SVG-3 {
+  height: 24px;
+  margin-left: -12.54px;
+  position: relative;
+  width: 24px;
+}
+
+.https-www-xe-com .span-tab-text-margin-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -12.55px;
+  max-width: 296px;
+  padding: 0px 0px 0px 8px;
+  position: relative;
+}
+
+.https-www-xe-com .main {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  margin-bottom: -16.25px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-currency {
+  height: 82px;
+  margin-right: -6px;
+  position: relative;
+  width: 1058px;
+}
+
+.https-www-xe-com .label {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 63px;
+}
+
+.https-www-xe-com .text-wrapper-4 {
+  color: var(--wwwxecombig-stone);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-text-input {
+  align-items: center;
+  background-color: var(--wwwxecomnero-02);
+  border: 1px solid;
+  border-color: var(--wwwxecomalto);
+  border-radius: 6px;
+  box-shadow: 0px 3px 15px #0011330d;
+  display: flex;
+  height: 47px;
+  left: 13px;
+  overflow: hidden;
+  padding: 13px;
+  position: absolute;
+  top: 31px;
+  width: 308px;
+}
+
+.https-www-xe-com .span-amount-input {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.66e-14px;
+  margin-bottom: -1.5px;
+  margin-top: -1.5px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-5 {
+  color: var(--wwwxecombig-stone);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .input {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.https-www-xe-com .div-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 4.25px 0px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .label-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 335px;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.https-www-xe-com .div-currency-2 {
+  height: 50px;
+  left: 671px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 52px;
+}
+
+.https-www-xe-com .label-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 737px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.https-www-xe-com .div-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 335px;
+  position: absolute;
+  top: 28px;
+  width: 321px;
+}
+
+.https-www-xe-com .div-base-combobox-wrapper {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomnero-02);
+  border: 1px solid;
+  border-color: var(--wwwxecomalto);
+  border-radius: 6px;
+  box-shadow: 0px 3px 15px #0011330d;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 13px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-base-combobox {
+  flex: 1;
+  flex-grow: 1;
+  height: 24px;
+  position: relative;
+}
+
+.https-www-xe-com .overlap-group {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 163px;
+}
+
+.https-www-xe-com .div-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 32px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.https-www-xe-com .USD-US-dollar-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0.01px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .USD-US-dollar {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .span {
+  color: #141e37;
+}
+
+.https-www-xe-com .text-wrapper-6 {
+  color: #5c667b;
+}
+
+.https-www-xe-com .div-flag-flagwrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 3px;
+  width: 34px;
+}
+
+.https-www-xe-com .div-flag-flagwrapper-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 2px;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .img-2 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  max-width: 24px;
+  object-fit: cover;
+  position: relative;
+}
+
+.https-www-xe-com .after {
+  border: 1px solid;
+  border-color: var(--wwwxecommidnight-15);
+  border-radius: 2px;
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.https-www-xe-com .SVG-4 {
+  height: 10px;
+  left: 277px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.https-www-xe-com .combobox-menu-wrapper {
+  align-items: center;
+  display: flex;
+  height: 55px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: -3px;
+  width: 321px;
+}
+
+.https-www-xe-com .combobox-menu {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 15px 41px 15px 13px;
+  position: relative;
+}
+
+.https-www-xe-com .div-placeholder {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 25px;
+  opacity: 0.3;
+  padding: 0px 139.8px 0px 0px;
+  position: relative;
+  width: 211px;
+}
+
+.https-www-xe-com .text-wrapper-7 {
+  color: transparent;
+  font-family: var(--www-xe-com-inter-regular-16-font-family);
+  font-size: var(--www-xe-com-inter-regular-16-font-size);
+  font-style: var(--www-xe-com-inter-regular-16-font-style);
+  font-weight: var(--www-xe-com-inter-regular-16-font-weight);
+  letter-spacing: var(--www-xe-com-inter-regular-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-16-line-height);
+  margin-right: -54.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 727px;
+  position: absolute;
+  top: 28px;
+  width: 318px;
+}
+
+.https-www-xe-com .div-text-input-2 {
+  align-items: center;
+  background-color: var(--wwwxecomnero-02);
+  border: 1px solid;
+  border-color: var(--wwwxecomalto);
+  border-radius: 6px;
+  box-shadow: 0px 3px 15px #0011330d;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 13px;
+  position: relative;
+  width: 313px;
+}
+
+.https-www-xe-com .div-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 32px;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.https-www-xe-com .EUR-euro-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 0px 0.01px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .EUR-euro {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: -6.24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .SVG-5 {
+  height: 10px;
+  left: 277px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}
+
+.https-www-xe-com .div-flag-flagwrapper-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 8px 0px 0px;
+  position: absolute;
+  top: 3px;
+  width: 26px;
+}
+
+.https-www-xe-com .after-2 {
+  border: 1px solid;
+  border-color: var(--wwwxecommidnight-15);
+  border-radius: 2px;
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.https-www-xe-com .div-base-combobox-2 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 305px;
+}
+
+.https-www-xe-com .div-placeholder-wrapper {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  margin-left: -0.1px;
+  margin-right: -0.1px;
+  padding: 15px 56px 15px 13px;
+  position: relative;
+  width: 305px;
+}
+
+.https-www-xe-com .div-placeholder-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -31px;
+  opacity: 0.3;
+  padding: 0px 139.81px 0px 0px;
+  position: relative;
+  width: 267px;
+}
+
+.https-www-xe-com .text-wrapper-8 {
+  color: transparent;
+  font-family: var(--www-xe-com-inter-regular-16-font-family);
+  font-size: var(--www-xe-com-inter-regular-16-font-size);
+  font-style: var(--www-xe-com-inter-regular-16-font-style);
+  font-weight: var(--www-xe-com-inter-regular-16-font-weight);
+  letter-spacing: var(--www-xe-com-inter-regular-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-16-line-height);
+  margin-right: -8.81px;
+  margin-top: -1px;
+  position: relative;
+  width: 136px;
+}
+
+.https-www-xe-com .div-currency-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 441.63px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-miscellany {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 508px;
+  padding: 0px 8px 8px 0px;
+  position: relative;
+  width: 484px;
+}
+
+.https-www-xe-com .div-miscellany-2 {
+  align-items: center;
+  background-color: var(--wwwxecomzircon);
+  border-radius: 6px;
+  display: flex;
+  flex: 0 0 auto;
+  margin-right: -11px;
+  max-width: 500px;
+  padding: 8px;
+  position: relative;
+  width: 487px;
+}
+
+.https-www-xe-com .div-icon-container {
+  align-self: stretch;
+  position: relative;
+  width: 31px;
+}
+
+.https-www-xe-com .div-text-container {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -13.44px;
+  padding: 0px 9.44px 0.25px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .we-use-the-mid {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.https-www-xe-com .text-wrapper-9 {
+  color: #373c49;
+  font-family: var(--www-xe-com-inter-regular-11-font-family);
+  font-size: var(--www-xe-com-inter-regular-11-font-size);
+  font-style: var(--www-xe-com-inter-regular-11-font-style);
+  font-weight: var(--www-xe-com-inter-regular-11-font-weight);
+  letter-spacing: var(--www-xe-com-inter-regular-11-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-11-line-height);
+}
+
+.https-www-xe-com .text-wrapper-10 {
+  color: #006ce0;
+  font-family: var(--www-xe-com-inter-regular-11-underline-font-family);
+  font-size: var(--www-xe-com-inter-regular-11-underline-font-size);
+  font-style: var(--www-xe-com-inter-regular-11-underline-font-style);
+  font-weight: var(--www-xe-com-inter-regular-11-underline-font-weight);
+  letter-spacing: var(--www-xe-com-inter-regular-11-underline-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-11-underline-line-height);
+  text-decoration: underline;
+}
+
+.https-www-xe-com .button {
+  all: unset;
+  align-items: center;
+  background-color: var(--accountsxecomblack);
+  border: 2px solid;
+  border-color: var(--wwwxecomblue-ribbon);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 12px 22px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-11 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -2px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .section-wrapper {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomnero);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 360px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .section-2 {
+  height: 727.19px;
+  max-width: 1200px;
+  position: relative;
+  width: 1200px;
+}
+
+.https-www-xe-com .heading {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 24px;
+  padding: 0px 438.5px 0.09px 438.48px;
+  position: absolute;
+  top: 64px;
+  width: 1152px;
+}
+
+.https-www-xe-com .text-wrapper-12 {
+  color: var(--wwwxecomarapawa);
+  font-family: var(--www-xe-com-inter-semi-bold-24-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-24-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-24-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-24-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-24-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-24-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-7 {
+  height: 458px;
+  left: 24px;
+  position: absolute;
+  top: 127px;
+  width: 1152px;
+}
+
+.https-www-xe-com .div-currency-wrapper {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 126px;
+  width: 1152px;
+}
+
+.https-www-xe-com .div-currency-4 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--wwwxecomblack-squeeze);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  padding: 0px 0px 1px;
+  position: relative;
+}
+
+.https-www-xe-com .button-2 {
+  all: unset;
+  align-items: flex-start;
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 16px 250.42px 16px 16px;
+  position: relative;
+}
+
+.https-www-xe-com .div-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.https-www-xe-com .div-flag-flagwrapper-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 12px 0px 0px;
+  position: relative;
+  width: 44px;
+}
+
+.https-www-xe-com .img-3 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  max-width: 32px;
+  object-fit: cover;
+  position: relative;
+}
+
+.https-www-xe-com .after-3 {
+  border: 1px solid;
+  border-color: var(--wwwxecommidnight-15);
+  border-radius: 2px;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.https-www-xe-com .div-currency-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  padding: 16px 8px;
+  position: relative;
+}
+
+.https-www-xe-com .div-overflow-tooltip {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 288px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-13 {
+  color: var(--wwwxecommonza);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-currency-6 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.https-www-xe-com .link-send-wrapper {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  padding: 16px 16px 16px 98.86px;
+  position: relative;
+  width: 201.61px;
+}
+
+.https-www-xe-com .link-send {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomblack);
+  border: 2px solid;
+  border-color: var(--wwwxecomblue-ribbon);
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-left: -0.25px;
+  padding: 8px 14px;
+  position: relative;
+}
+
+.https-www-xe-com .SVG-6 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.https-www-xe-com .text-wrapper-14 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -0.5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-currency-7 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 209px;
+  width: 1152px;
+}
+
+.https-www-xe-com .button-3 {
+  all: unset;
+  align-items: flex-start;
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 16px 182.26px 16px 16px;
+  position: relative;
+}
+
+.https-www-xe-com .div-currency-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 2.84e-14px 0px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .div-currency-9 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 292px;
+  width: 1152px;
+}
+
+.https-www-xe-com .button-4 {
+  all: unset;
+  align-items: flex-start;
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 16px 177.86px 16px 16px;
+  position: relative;
+}
+
+.https-www-xe-com .div-currency-10 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 375px;
+  width: 1152px;
+}
+
+.https-www-xe-com .button-5 {
+  all: unset;
+  align-items: flex-start;
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 16px 163.17px 16px 16px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-15 {
+  color: var(--wwwxecomforest-green);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-currency-11 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--wwwxecomblack-squeeze);
+  display: flex;
+  left: 0;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 0;
+  width: 1152px;
+}
+
+.https-www-xe-com .div-currency-12 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 1.42e-14px 0px;
+  padding: 16px 214.73px 16px 16px;
+  position: relative;
+}
+
+.https-www-xe-com .label-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 8px 0px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .div-toggle-styleddiv {
+  background-color: var(--wwwxecomsilver);
+  border-radius: 30px;
+  height: 24px;
+  position: relative;
+  width: 50px;
+}
+
+.https-www-xe-com .div-react-toggle {
+  background-color: var(--wwwxecomalabaster);
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px #141e37b2;
+  height: 16px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 16px;
+}
+
+.https-www-xe-com .button-wrapper {
+  all: unset;
+  align-items: flex-start;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-end;
+  padding: 16px 16px 16px 131.3px;
+  position: relative;
+  width: 201.61px;
+}
+
+.https-www-xe-com .button-6 {
+  all: unset;
+  align-items: center;
+  align-self: stretch;
+  border: 2px solid;
+  border-color: #006fe8;
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-left: -0.69px;
+  padding: 8px 14px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-16 {
+  color: #006fe8;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -2px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-currency-13 {
+  align-items: center;
+  background-color: var(--wwwxecomblack);
+  border-radius: 8px;
+  display: flex;
+  gap: 5.68e-14px;
+  left: 0;
+  padding: 0px 604.82px 0px 0px;
+  position: absolute;
+  top: 70px;
+  width: 1152px;
+}
+
+.https-www-xe-com .div-dashboard-top {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  position: relative;
+}
+
+.https-www-xe-com .div-text-input-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomnero-02);
+  border-radius: 6px;
+  box-shadow: 0px 3px 15px #0011330d;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  padding: 15px 7px 15px 15px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-17 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-base-combobox-3 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.https-www-xe-com .combobox-menu-2 {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 17px 7px 17px 15px;
+  position: relative;
+}
+
+.https-www-xe-com .div-placeholder-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  opacity: 0.3;
+  padding: 0px 198.06px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-18 {
+  color: transparent;
+  font-family: var(--www-xe-com-inter-regular-16-font-family);
+  font-size: var(--www-xe-com-inter-regular-16-font-size);
+  font-style: var(--www-xe-com-inter-regular-16-font-style);
+  font-weight: var(--www-xe-com-inter-regular-16-font-weight);
+  letter-spacing: var(--www-xe-com-inter-regular-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-16-line-height);
+  margin-right: -0.77px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-currency-14 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 16px 185.89px 16px 8px;
+  position: relative;
+}
+
+.https-www-xe-com .SVG-7 {
+  height: 14px;
+  left: 5px;
+  position: absolute;
+  top: 56px;
+  width: 14px;
+}
+
+.https-www-xe-com .div-9 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 24px;
+  position: absolute;
+  top: 601px;
+  width: 1152px;
+}
+
+.https-www-xe-com .div-pugsnax {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 300px;
+  position: relative;
+  z-index: 1;
+}
+
+.https-www-xe-com .div-text-input-4 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 6px;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 13px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-currency-15 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.https-www-xe-com .div-wrapper-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-19 {
+  color: var(--wwwxecomblue-ribbon);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-base-combobox-4 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.https-www-xe-com .combobox-menu-3 {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 21px 41px 21px 13px;
+  position: relative;
+}
+
+.https-www-xe-com .div-placeholder-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  opacity: 0.3;
+  padding: 0px 120.47px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-20 {
+  color: transparent;
+  font-family: var(--www-xe-com-inter-regular-16-font-family);
+  font-size: var(--www-xe-com-inter-regular-16-font-size);
+  font-style: var(--www-xe-com-inter-regular-16-font-style);
+  font-weight: var(--www-xe-com-inter-regular-16-font-weight);
+  letter-spacing: var(--www-xe-com-inter-regular-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-16-line-height);
+  margin-right: -0.47px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+  z-index: 0;
+}
+
+.https-www-xe-com .button-rates-will {
+  align-items: center;
+  border-radius: 20px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.https-www-xe-com .SVG-8 {
+  background-image: url(https://c.animaapp.com/oiLx1S3a/img/vector.svg);
+  background-size: 100% 100%;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.https-www-xe-com .vector {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.https-www-xe-com .text-wrapper-21 {
+  color: var(--wwwxecombig-stone);
+  font-family: var(--www-xe-com-inter-regular-16-font-family);
+  font-size: var(--www-xe-com-inter-regular-16-font-size);
+  font-style: var(--www-xe-com-inter-regular-16-font-style);
+  font-weight: var(--www-xe-com-inter-regular-16-font-weight);
+  left: 10px;
+  letter-spacing: var(--www-xe-com-inter-regular-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-16-line-height);
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.https-www-xe-com .div-wrapper-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0px 8px;
+  position: relative;
+}
+
+.https-www-xe-com .div-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0.5px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .p {
+  color: var(--wwwxecombig-stone);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-fluid-container-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomathens-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 360px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .section-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1200px;
+  padding: 64px 0px;
+  position: relative;
+  width: 1200px;
+}
+
+.https-www-xe-com .div-polymorphic {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 366.83px 32px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .the-world-s-most-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.33px;
+  margin-right: -0.33px;
+  padding: 0px 0px 0.09px;
+  position: relative;
+}
+
+.https-www-xe-com .div-carousel-reel-sc {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-top: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-compound {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 75px;
+  padding: 0px 75px;
+  position: relative;
+}
+
+.https-www-xe-com .div-carousel-slide {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--wwwxecomnero);
+  border-radius: 8px;
+  box-shadow: 0px 3px 15px #00113312;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 300px;
+}
+
+.https-www-xe-com .div-essay-card {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.15px;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-essay-card-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 28.38px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .SVG-9 {
+  height: 90px;
+  position: relative;
+  width: 90px;
+}
+
+.https-www-xe-com .div-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 31.39px;
+  margin-left: -0.46px;
+  margin-right: -0.46px;
+  padding: 0px 0px 32px;
+  position: relative;
+}
+
+.https-www-xe-com .div-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .xe-international-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 14.47px 0px 14.45px;
+  position: relative;
+}
+
+.https-www-xe-com .xe-international {
+  color: var(--wwwxecomarapawa);
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.https-www-xe-com .p-paragraph {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 15.11px 0.56px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-22 {
+  color: var(--wwwxecombig-stone);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 27.2px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-essay-card-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -3.41e-13px;
+  padding: 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-send-money {
+  align-items: center;
+  border: 2px solid;
+  border-color: #006fe8;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-left: -0.01px;
+  margin-right: -0.01px;
+  min-width: 220px;
+  padding: 8px 68.02px 8px 68px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-23 {
+  color: #006fe8;
+  font-family: var(--www-xe-com-inter-semi-bold-14-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-14-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-14-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-14-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-14-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-14-line-height);
+  margin-top: -2px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-essay-card-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.46px;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-essay-card-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 31.37px;
+  margin-left: -0.42px;
+  margin-right: -0.42px;
+  padding: 0px 0px 32px;
+  position: relative;
+}
+
+.https-www-xe-com .heading-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 30.92px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-24 {
+  color: var(--wwwxecomarapawa);
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .create-a-chart-for-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 3.11px 0.56px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .link-view-charts {
+  align-items: center;
+  border: 2px solid;
+  border-color: #006fe8;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-left: -0.1px;
+  margin-right: -0.1px;
+  min-width: 220px;
+  padding: 8px 69.6px 8px 69.59px;
+  position: relative;
+}
+
+.https-www-xe-com .div-essay-card-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.06px;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-essay-card-7 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 27.19px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 31.38px;
+  margin-left: -0.33px;
+  margin-right: -0.33px;
+  padding: 0px 0px 32px;
+  position: relative;
+}
+
+.https-www-xe-com .heading-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 57.33px;
+  position: relative;
+}
+
+.https-www-xe-com .need-to-know-when-a-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 3.56px 0.56px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .link-create-alert {
+  align-items: center;
+  border: 2px solid;
+  border-color: #006fe8;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-left: -0.36px;
+  margin-right: -0.36px;
+  min-width: 220px;
+  padding: 8px 69.86px;
+  position: relative;
+}
+
+.https-www-xe-com .div-fluid-container-4 {
+  align-items: center;
+  align-self: stretch;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgb(248, 183, 30) 0%,
+    rgb(248, 183, 30) 85.6%,
+    rgb(248, 183, 30) 99.7%
+  );
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 360px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .section-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.68e-14px;
+  max-width: 1200px;
+  padding: 64px 0px;
+  position: relative;
+  width: 1200px;
+}
+
+.https-www-xe-com .heading-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 330.36px 32px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .heading-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.36px;
+  margin-right: -0.36px;
+  padding: 0px 0px 0.09px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-25 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-semi-bold-24-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-24-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-24-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-24-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-24-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-24-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-compound-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-trustpilot-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--wwwxecomnero);
+  border-radius: 8px;
+  box-shadow: 0px 3px 15px #00113312;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 300px;
+}
+
+.https-www-xe-com .div-trustpilot {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomdeep-cove);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 240px;
+  padding: 49.5px 55.59px 49.5px 55.58px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .great-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 10px;
+  position: relative;
+}
+
+.https-www-xe-com .great {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .SVG-10 {
+  height: 30px;
+  position: relative;
+  width: 166.5px;
+}
+
+.https-www-xe-com .div-17 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 10px 2.84e-14px 10px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-26 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.https-www-xe-com .SVG-11 {
+  height: 30px;
+  position: relative;
+  width: 125px;
+}
+
+.https-www-xe-com .div-trustpilot-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--wwwxecomnero);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 240px;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-18 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .happy-with-service-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 26.02px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .happy-with-service {
+  color: var(--wwwxecomfuscous-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: -0.02px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-trustpilot-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 3.87px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .happy-with-service-2 {
+  color: var(--wwwxecomfuscous-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-right: -0.87px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-19 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 198.39px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-27 {
+  color: var(--wwwxecomfuscous-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.39px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 129.56px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-28 {
+  color: var(--wwwxecomgenoa);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.56px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-trustpilot-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--wwwxecomnero);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 7px;
+  min-height: 240px;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .good-rates-and-quick-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 29.27px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .good-rates-and-quick {
+  color: var(--wwwxecomfuscous-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: -0.27px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.https-www-xe-com .excellent-quick-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 3.72px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .excellent-quick {
+  color: var(--wwwxecomfuscous-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-right: -0.72px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 232.02px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-29 {
+  color: var(--wwwxecomfuscous-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.02px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-22 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 119.86px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-30 {
+  color: var(--wwwxecomgenoa);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.86px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-carousel-dots-sc {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  justify-content: center;
+  padding: 0px 544px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .button-focus-on {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 16px;
+  justify-content: center;
+  padding: 0px 6px;
+  position: relative;
+  width: 28px;
+}
+
+.https-www-xe-com .button-focus-on-2 {
+  align-self: stretch;
+  border: 2px solid;
+  border-color: var(--wwwxecomnero);
+  border-radius: 8px;
+  height: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .button-focus-on-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 16px;
+  justify-content: center;
+  padding: 0px 8px;
+  position: relative;
+  width: 28px;
+}
+
+.https-www-xe-com .button-focus-on-3 {
+  align-self: stretch;
+  background-color: var(--wwwxecomnero);
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-fluid-container-5 {
+  align-self: stretch;
+  background-color: var(--wwwxecomnero);
+  height: 882px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-fluid-container-6 {
+  height: 882px;
+  position: relative;
+  width: 2131px;
+}
+
+.https-www-xe-com .div-fluid-container-7 {
+  height: 882px;
+  left: 464px;
+  position: relative;
+  width: 992px;
+}
+
+.https-www-xe-com .div-grid-column-sc {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 44px;
+  max-width: 430px;
+  padding: 12px 12px 48.22px;
+  position: absolute;
+  top: 98px;
+  width: 430px;
+}
+
+.https-www-xe-com .div-grid-sc {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1032px;
+  padding: 12px;
+  position: relative;
+  width: 406px;
+  z-index: 1;
+}
+
+.https-www-xe-com .div-grid-row-sc {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-padding-sc-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 594px;
+  max-width: 382px;
+  padding: 12px;
+  position: relative;
+}
+
+.https-www-xe-com .div-step-stepcontent {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 36px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .heading-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 139.95px 0.25px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-31 {
+  color: var(--wwwcurrencyfaircomlimed-spruce);
+  font-family: var(--www-currencyfair-com-inter-medium-19-52-font-family);
+  font-size: var(--www-currencyfair-com-inter-medium-19-52-font-size);
+  font-style: var(--www-currencyfair-com-inter-medium-19-52-font-style);
+  font-weight: var(--www-currencyfair-com-inter-medium-19-52-font-weight);
+  letter-spacing: var(--www-currencyfair-com-inter-medium-19-52-letter-spacing);
+  line-height: var(--www-currencyfair-com-inter-medium-19-52-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .p-hd-d {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 47.52px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-32 {
+  color: var(--wwwcurrencyfaircomshuttle-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 16.5px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.https-www-xe-com .before {
+  border-color: var(--wwwcurrencyfaircomhippie-blue);
+  border-left-style: dashed;
+  border-left-width: 1px;
+  height: 149px;
+  left: -24px;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+
+.https-www-xe-com .after-4 {
+  align-items: center;
+  background-color: var(--wwwcurrencyfaircomnero);
+  border-radius: 50px;
+  box-shadow: 0px 4px 16px #0000001f;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: -36px;
+  padding: 1.5px 0px;
+  position: absolute;
+  top: 6px;
+  width: 24px;
+}
+
+.https-www-xe-com .text-wrapper-33 {
+  color: var(--wwwcurrencyfaircomhippie-blue);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .heading-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 164.75px 0.25px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .p-hd {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 16.48px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .fill-in-the-banks {
+  color: var(--wwwcurrencyfaircomshuttle-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 16.6px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.https-www-xe-com .before-2 {
+  border-color: var(--wwwcurrencyfaircomhippie-blue);
+  border-left-style: dashed;
+  border-left-width: 1px;
+  height: 122px;
+  left: -24px;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+
+.https-www-xe-com .heading-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 88.86px 0.25px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-34 {
+  color: var(--wwwcurrencyfaircomlimed-spruce);
+  font-family: var(--www-currencyfair-com-inter-medium-19-36-font-family);
+  font-size: var(--www-currencyfair-com-inter-medium-19-36-font-size);
+  font-style: var(--www-currencyfair-com-inter-medium-19-36-font-style);
+  font-weight: var(--www-currencyfair-com-inter-medium-19-36-font-weight);
+  letter-spacing: var(--www-currencyfair-com-inter-medium-19-36-letter-spacing);
+  line-height: var(--www-currencyfair-com-inter-medium-19-36-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .p-hd-c {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 10.3px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .tell-us-how-you-will {
+  color: var(--wwwcurrencyfaircomshuttle-gray);
+  font-family: "Inter", Helvetica;
+  font-size: 16.6px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: -0.3px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.https-www-xe-com .heading-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 42.3px 0.25px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-35 {
+  color: var(--wwwcurrencyfaircomlimed-spruce);
+  font-family: var(--www-currencyfair-com-inter-medium-19-2-font-family);
+  font-size: var(--www-currencyfair-com-inter-medium-19-2-font-size);
+  font-style: var(--www-currencyfair-com-inter-medium-19-2-font-style);
+  font-weight: var(--www-currencyfair-com-inter-medium-19-2-font-weight);
+  letter-spacing: var(--www-currencyfair-com-inter-medium-19-2-letter-spacing);
+  line-height: var(--www-currencyfair-com-inter-medium-19-2-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .p-hd-f {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 9.7px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .before-3 {
+  border-color: var(--wwwcurrencyfaircomhippie-blue);
+  border-left-style: dashed;
+  border-left-width: 1px;
+  height: 12px;
+  left: -24px;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+
+.https-www-xe-com .div-steps-stepctas {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 2.84e-14px 0px;
+  padding: 0px 58.55px 0px 0px;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+
+.https-www-xe-com .link-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-width: 154.1px;
+  padding: 0px 12px 12px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .link-6 {
+  align-items: center;
+  background-color: var(--wwwxecomblack);
+  border: 1px solid;
+  border-color: var(--wwwxecomblack);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  min-width: 142.1px;
+  padding: 13.25px 30.65px 14.25px 30.66px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-36 {
+  color: var(--wwwcurrencyfaircomtwilight-blue);
+  font-family: "Inter", Helvetica;
+  font-size: 14.8px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .button-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-width: 142.1px;
+  padding: 0px 0px 12px;
+  position: relative;
+}
+
+.https-www-xe-com .button-7 {
+  align-items: center;
+  background-color: var(--wwwcurrencyfaircomnero);
+  border: 1px solid;
+  border-color: var(--wwwcurrencyfaircomhippie-blue);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.14e-13px;
+  justify-content: center;
+  min-width: 142.1px;
+  padding: 10px 13px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-37 {
+  color: var(--wwwcurrencyfaircomhippie-blue);
+  font-family: "Inter", Helvetica;
+  font-size: 14.8px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .symbol-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.https-www-xe-com .symbol {
+  color: var(--wwwcurrencyfaircomhippie-blue);
+  font-family: var(--www-currencyfair-com-material-icons-regular-21-font-family);
+  font-size: var(--www-currencyfair-com-material-icons-regular-21-font-size);
+  font-style: var(--www-currencyfair-com-material-icons-regular-21-font-style);
+  font-weight: var(--www-currencyfair-com-material-icons-regular-21-font-weight);
+  letter-spacing: var(--www-currencyfair-com-material-icons-regular-21-letter-spacing);
+  line-height: var(--www-currencyfair-com-material-icons-regular-21-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .https-www {
+  background-image: url(https://c.animaapp.com/oiLx1S3a/img/https---www-currencyfair-com----16-03-2024--13-48-39-cet.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 697px;
+  left: 659px;
+  position: absolute;
+  top: 95px;
+  width: 400px;
+}
+
+.https-www-xe-com .div-text-center-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1200px;
+  padding: 64px 24px;
+  position: relative;
+  width: 1200px;
+}
+
+.https-www-xe-com .div-text-center {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63.99px;
+  padding: 0px 0px 0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .heading-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 326.42px 0.11px 326.41px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-38 {
+  color: var(--wwwxecomarapawa);
+  font-family: var(--www-xe-com-inter-semi-bold-24-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-24-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-24-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-24-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-24-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-24-line-height);
+  margin-left: -0.42px;
+  margin-right: -0.42px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-sign-up {
+  align-items: center;
+  background-color: var(--wwwxecomblack);
+  border: 2px solid;
+  border-color: var(--wwwxecomblue-ribbon);
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  min-width: 220px;
+  padding: 12px 80.99px 12px 80.98px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-39 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  margin-top: -2px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-fluid-container-8 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--wwwxecomblack);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 360px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .section-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 31.99px;
+  max-width: 1200px;
+  padding: 64px 24px;
+  position: relative;
+  width: 1200px;
+}
+
+.https-www-xe-com .heading-10 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 475.3px 0.09px 475.28px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-40 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-semi-bold-24-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-24-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-24-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-24-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-24-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-24-line-height);
+  margin-left: -0.29px;
+  margin-right: -0.29px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-currency-16 {
+  align-self: stretch;
+  height: 112px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0.35px 132.11px 2.65px 0px;
+  position: absolute;
+  top: 0;
+  width: 266px;
+}
+
+.https-www-xe-com .link-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.61px;
+  position: relative;
+}
+
+.https-www-xe-com .div-flag-flagwrapper-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 8px 0px 0px;
+  position: relative;
+  width: 28px;
+  z-index: 1;
+}
+
+.https-www-xe-com .img-4 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  max-width: 20px;
+  object-fit: cover;
+  position: relative;
+}
+
+.https-www-xe-com .after-5 {
+  border: 1px solid;
+  border-color: var(--wwwxecommidnight-15);
+  border-radius: 2px;
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.https-www-xe-com .span-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1.42e-14px 0px 0px;
+  position: relative;
+  z-index: 0;
+}
+
+.https-www-xe-com .text-wrapper-41 {
+  color: var(--wwwxecomjapanese-laurel);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 296px;
+  padding: 0.35px 165.34px 2.65px 0px;
+  position: absolute;
+  top: 0;
+  width: 266px;
+}
+
+.https-www-xe-com .link-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.84px;
+  position: relative;
+}
+
+.https-www-xe-com .span-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 2.84e-14px 0px 0px;
+  position: relative;
+  z-index: 0;
+}
+
+.https-www-xe-com .div-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 591px;
+  padding: 0.35px 104.83px 2.65px 0px;
+  position: absolute;
+  top: 0;
+  width: 266px;
+}
+
+.https-www-xe-com .link-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.33px;
+  position: relative;
+}
+
+.https-www-xe-com .span-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  z-index: 0;
+}
+
+.https-www-xe-com .div-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 886px;
+  padding: 0.35px 86.33px 2.65px 0px;
+  position: absolute;
+  top: 0;
+  width: 266px;
+}
+
+.https-www-xe-com .link-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.83px;
+  position: relative;
+}
+
+.https-www-xe-com .div-26 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0.35px 81.45px 2.65px 0px;
+  position: absolute;
+  top: 44px;
+  width: 266px;
+}
+
+.https-www-xe-com .link-11 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.95px;
+  position: relative;
+}
+
+.https-www-xe-com .span-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 5.68e-14px 0px 0px;
+  position: relative;
+  z-index: 0;
+}
+
+.https-www-xe-com .div-27 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 296px;
+  padding: 0.35px 103.02px 2.65px 0px;
+  position: absolute;
+  top: 44px;
+  width: 266px;
+}
+
+.https-www-xe-com .link-12 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.52px;
+  position: relative;
+}
+
+.https-www-xe-com .div-28 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 591px;
+  padding: 0.35px 112.8px 2.65px 0px;
+  position: absolute;
+  top: 44px;
+  width: 266px;
+}
+
+.https-www-xe-com .link-13 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.3px;
+  position: relative;
+}
+
+.https-www-xe-com .div-29 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 886px;
+  padding: 0.35px 62.97px 2.65px 0px;
+  position: absolute;
+  top: 44px;
+  width: 266px;
+}
+
+.https-www-xe-com .link-14 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.47px;
+  position: relative;
+}
+
+.https-www-xe-com .div-30 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0.35px 113.52px 2.65px 0px;
+  position: absolute;
+  top: 88px;
+  width: 266px;
+}
+
+.https-www-xe-com .link-15 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.02px;
+  position: relative;
+}
+
+.https-www-xe-com .div-31 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 296px;
+  padding: 0.35px 64.8px 2.65px 0px;
+  position: absolute;
+  top: 88px;
+  width: 266px;
+}
+
+.https-www-xe-com .div-32 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 591px;
+  padding: 0.35px 100.31px 2.65px 0px;
+  position: absolute;
+  top: 88px;
+  width: 266px;
+}
+
+.https-www-xe-com .link-16 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.81px;
+  position: relative;
+}
+
+.https-www-xe-com .div-33 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 886px;
+  padding: 0.35px 102.36px 2.65px 0px;
+  position: absolute;
+  top: 88px;
+  width: 266px;
+}
+
+.https-www-xe-com .link-17 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.86px;
+  position: relative;
+}
+
+.https-www-xe-com .footer {
+  align-items: center;
+  background-color: var(--wwwxecomblack);
+  display: flex;
+  flex-direction: column;
+  height: 941px;
+  padding: 0px 360px;
+  position: relative;
+  width: 2131px;
+}
+
+.https-www-xe-com .section-6 {
+  height: 940.56px;
+  max-width: 1200px;
+  position: relative;
+  width: 1200px;
+}
+
+.https-www-xe-com .div-footer-footerrow {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  justify-content: center;
+  left: 24px;
+  position: absolute;
+  top: 64px;
+  width: 1152px;
+}
+
+.https-www-xe-com .div-footer {
+  flex: 1;
+  flex-grow: 1;
+  height: 87.19px;
+  min-width: 158px;
+  position: relative;
+}
+
+.https-www-xe-com .div-footer-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 0px 0px 1.01px;
+  position: relative;
+  top: -1px;
+  width: 270px;
+}
+
+.https-www-xe-com .p-heading {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 193.56px 0.59px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-42 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-semi-bold-16-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-16-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-16-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-16-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-16-line-height);
+  margin-right: -0.56px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .text-wrapper-43 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .SVG-margin {
+  align-self: stretch;
+  margin-left: -7.11e-15px;
+  object-fit: cover;
+  position: relative;
+  width: 18px;
+}
+
+.https-www-xe-com .div-footer-3 {
+  flex: 1;
+  flex-grow: 1;
+  min-width: 158px;
+  position: relative;
+}
+
+.https-www-xe-com .div-footer-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  min-width: 158px;
+  padding: 0px 18px 0px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .div-footer-4 {
+  align-self: stretch;
+  height: 87.19px;
+  min-width: 140px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-footer-footerrow-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  justify-content: center;
+  left: 24px;
+  position: absolute;
+  top: 175px;
+  width: 1152px;
+}
+
+.https-www-xe-com .div-footer-5 {
+  flex: 1;
+  flex-grow: 1;
+  height: 417.19px;
+  min-width: 158px;
+  position: relative;
+}
+
+.https-www-xe-com .div-footer-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11.99px;
+  padding: 0px 0px 0.02px;
+  position: relative;
+  top: -1px;
+  width: 270px;
+}
+
+.https-www-xe-com .p-heading-heading {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 148.5px 0.59px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-44 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-semi-bold-16-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-16-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-16-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-16-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-16-line-height);
+  margin-right: -0.5px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 159.95px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-45 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.95px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-send-money-to-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 153.73px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-send-money-to {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.73px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 132.8px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-send-money-to-2 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 140.31px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-send-money-to-3 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.31px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 146.61px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-46 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.61px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 142.31px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .item-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 137.48px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-send-money-to-4 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.48px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 131.56px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-send-money-to-5 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.56px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 106.5px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-send-money-to-6 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.5px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 105.06px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-47 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.06px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-security-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 223.33px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-48 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.33px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .button-report-fraud-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 198.33px 8px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .button-trustpilot-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 166.06px 8px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .div-footer-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11.99px;
+  padding: 0px 0px 146.02px;
+  position: relative;
+  top: -1px;
+  width: 270px;
+}
+
+.https-www-xe-com .p-heading-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 175.25px 0.59px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-49 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-semi-bold-16-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-16-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-16-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-16-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-16-line-height);
+  margin-right: -0.25px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-business-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 160.37px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-business {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.37px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-international-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 86.27px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-international {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.27px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-global-business-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 121.02px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-global-business {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.02px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-risk-management-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 168.97px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-risk-management {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.97px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-enterprise-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 104px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-50 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-currency-data-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 101.22px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-currency-data {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-affiliate-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 82.2px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-affiliate {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-mass-payments-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 180.84px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-mass-payments {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.84px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-footer-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11.99px;
+  padding: 0px 0px 276.02px;
+  position: relative;
+  top: -1px;
+  width: 270px;
+}
+
+.https-www-xe-com .p-heading-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 229.64px 0.59px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-51 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-semi-bold-16-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-16-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-16-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-16-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-16-line-height);
+  margin-right: -0.64px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-money-transfer-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 82.61px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-android-money-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 107.45px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-android-money {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.45px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-ios-money-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 132.11px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-ios-money {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.11px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-footer-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11.99px;
+  padding: 0px 0px 120.02px;
+  position: relative;
+  top: -1px;
+  width: 270px;
+}
+
+.https-www-xe-com .tools-resources-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 128.25px 0.59px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-blog-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 244.87px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-blog {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.87px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-currency-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 158.08px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-currency {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.08px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-currency-charts-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 176.83px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-currency-charts {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.83px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-historical-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 126.36px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-52 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.36px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 139.39px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-currency-2 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.39px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-currency-rate-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 152.36px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .item-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 146.53px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-currency-3 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.53px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-IBAN-calculator-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 180.95px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-glossary-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 220.41px 0.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .link-glossary {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: -0.41px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-34 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 24px;
+  padding: 0px 0px 3.98e-13px;
+  position: absolute;
+  top: 624px;
+  width: 1152px;
+}
+
+.https-www-xe-com .p-heading-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1044.61px 0.61px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-53 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-semi-bold-16-font-family);
+  font-size: var(--www-xe-com-inter-semi-bold-16-font-size);
+  font-style: var(--www-xe-com-inter-semi-bold-16-font-style);
+  font-weight: var(--www-xe-com-inter-semi-bold-16-font-weight);
+  letter-spacing: var(--www-xe-com-inter-semi-bold-16-letter-spacing);
+  line-height: var(--www-xe-com-inter-semi-bold-16-line-height);
+  margin-right: -0.61px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .list {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .overlap {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 699px;
+}
+
+.https-www-xe-com .item-margin-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 18px 16.5px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .item-link-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 71px;
+  padding: 0px 18px 16.5px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .item-button-careers-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 161px;
+  padding: 0px 18px 16px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .item-button-help-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 223px;
+  padding: 0px 18px 16px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .item-link-site-map-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 309px;
+  padding: 0px 18px 16.5px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .item-link-legal-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 377px;
+  padding: 0px 18px 16.5px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .item-link-privacy-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 425px;
+  padding: 0px 18px 16.5px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .item-link-cookie-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 485px;
+  padding: 0px 18px 16.5px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .item-wrapper {
+  height: 34px;
+  left: 580px;
+  position: absolute;
+  top: 0;
+  width: 119px;
+}
+
+.https-www-xe-com .p-footer-consentlink-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  padding: 0px 0px 5.61px;
+  position: relative;
+  top: -1px;
+}
+
+.https-www-xe-com .p-footer-consentlink {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0.69px;
+  position: relative;
+  width: 100%;
+}
+
+.https-www-xe-com .text-wrapper-54 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-regular-12-font-family);
+  font-size: var(--www-xe-com-inter-regular-12-font-size);
+  font-style: var(--www-xe-com-inter-regular-12-font-style);
+  font-weight: var(--www-xe-com-inter-regular-12-font-weight);
+  letter-spacing: var(--www-xe-com-inter-regular-12-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-12-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .item-link-error-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 8px;
+  position: absolute;
+  top: 34px;
+}
+
+.https-www-xe-com .overlap-group-2 {
+  height: 34px;
+  left: 699px;
+  position: absolute;
+  top: 0;
+  width: 372px;
+}
+
+.https-www-xe-com .item-link-file-a-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 175px;
+  padding: 0px 18px 16.5px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .item-margin-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 283px;
+  padding: 0px 18px 16.5px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.https-www-xe-com .small-wrapper {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  left: 24px;
+  padding: 0px 981.34px 8px 0px;
+  position: absolute;
+  top: 784px;
+  width: 1152px;
+}
+
+.https-www-xe-com .small {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -0.34px;
+  padding: 0px 2.84e-14px 0.02px 0px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-55 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .header {
+  align-items: center;
+  background-color: var(--personal-registrationxecommine-shaft);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  padding: 0px 360px;
+  position: absolute;
+  top: 0;
+  width: 2131px;
+}
+
+.https-www-xe-com .div-headerstyles {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  height: 105px;
+  justify-content: center;
+  max-width: 1200px;
+  padding: 12px;
+  position: relative;
+  width: 1200px;
+}
+
+.https-www-xe-com .element-svg {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 28px;
+  justify-content: center;
+  margin-left: -35.5px;
+  padding: 0px 1.6px;
+  position: relative;
+  width: 121px;
+}
+
+.https-www-xe-com .element {
+  background-blend-mode: color-dodge;
+  height: 28px;
+  margin-left: -1.6px;
+  margin-right: -1.6px;
+  object-fit: cover;
+  position: relative;
+  width: 121px;
+}
+
+.https-www-xe-com .div-headerstyles-2 {
+  align-items: center;
+  display: flex;
+  gap: 22px;
+  height: 25px;
+  padding: 0px 7.99px 0px 0px;
+  position: relative;
+  width: 172.73px;
+}
+
+.https-www-xe-com .link-18 {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-bottom: -5px;
+  margin-top: -5px;
+  padding: 5.5px 8px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-56 {
+  color: var(--wwwxecomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .after-6 {
+  background-color: var(--wwwxecomalto);
+  height: 18px;
+  left: 85px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.https-www-xe-com .link-business-2 {
+  color: var(--wwwxecomnero-50);
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: -1.26px;
+  margin-top: -0.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .nav {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  padding: 0px 73.46px 0px 73.47px;
+  position: relative;
+  width: 710.78px;
+}
+
+.https-www-xe-com .button-send-money-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -1.07px;
+  padding: 7.25px 20px 8.75px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-57 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-regular-15-underline-font-family);
+  font-size: var(--www-xe-com-inter-regular-15-underline-font-size);
+  font-style: var(--www-xe-com-inter-regular-15-underline-font-style);
+  font-weight: var(--www-xe-com-inter-regular-15-underline-font-weight);
+  letter-spacing: var(--www-xe-com-inter-regular-15-underline-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-15-underline-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .link-19 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 7.25px 20px 8.75px;
+  position: relative;
+}
+
+.https-www-xe-com .div-tooltip {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.https-www-xe-com .button-8 {
+  all: unset;
+  align-items: center;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.https-www-xe-com .text-wrapper-58 {
+  color: var(--wwwxecomnero);
+  font-family: var(--www-xe-com-inter-regular-15-font-family);
+  font-size: var(--www-xe-com-inter-regular-15-font-size);
+  font-style: var(--www-xe-com-inter-regular-15-font-style);
+  font-weight: var(--www-xe-com-inter-regular-15-font-weight);
+  letter-spacing: var(--www-xe-com-inter-regular-15-letter-spacing);
+  line-height: var(--www-xe-com-inter-regular-15-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.https-www-xe-com .div-tooltip-2 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-right: -1.07px;
+  position: relative;
+}
+
+.https-www-xe-com .div-headerstyles-wrapper {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: -35.5px;
+  position: relative;
+  width: 194.48px;
+}
+
+.https-www-xe-com .div-headerstyles-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7.99px;
+  margin-left: -1.51px;
+  position: relative;
+}
+
+.https-www-xe-com .div-tooltip-3 {
+  all: unset;
+  align-items: center;
+  align-self: stretch;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.https-www-xe-com .button-9 {
+  all: unset;
+  align-items: center;
+  background-color: var(--wwwxecomscience-blue);
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 8px 20px;
+  position: relative;
+}

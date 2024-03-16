@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:var(--www-xe-com-inter-semi-bold-16-font-weight),var(--www-xe-com-inter-regular-15-underline-font-weight),var(--www-currencyfair-com-inter-medium-19-36-font-weight),var(--www-xe-com-inter-semi-bold-24-font-weight),var(--www-currencyfair-com-inter-medium-19-52-font-weight),var(--www-currencyfair-com-inter-medium-19-2-font-weight),var(--www-xe-com-inter-semi-bold-14-font-weight),600,700,var(--www-xe-com-inter-regular-12-font-weight),300,var(--www-xe-com-inter-regular-11-underline-font-weight),var(--www-xe-com-inter-regular-11-font-weight),500,400,var(--www-xe-com-inter-regular-16-font-weight),var(--www-xe-com-inter-regular-15-font-weight)|Material+Icons:var(--www-currencyfair-com-material-icons-regular-21-font-weight)");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+      * {
+        -webkit-font-smoothing: antialiased;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0px;
+        height: 100%;
+      }
+      /* a blue color as a generic focus style */
+      button:focus-visible {
+        outline: 2px solid #4a90e2 !important;
+        outline: -webkit-focus-ring-color auto 5px !important;
+      }
+      a {
+        text-decoration: none;
+      }
